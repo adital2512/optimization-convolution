@@ -14,7 +14,7 @@ or
 3. after the run, you can see the avg runtime of each image and process and the correctness of it.
 
 
-oroginal runtime - 
+oroginal runtime - 61.2ms
 current runtime - 6.4ms
 
 files changed; 
